@@ -706,7 +706,7 @@
     "file-type": "21.3.3",
     "gaxios": "7.1.4",
     "grammy": "^1.41.1",
-    "hono": "4.12.8",
+    "hono": "4.13.5",
     "https-proxy-agent": "^8.0.0",
     "ipaddr.js": "^2.3.0",
     "jiti": "^2.6.1",
@@ -772,7 +772,7 @@
     "overrides": {
       "@mariozechner/pi-coding-agent>@mariozechner/pi-agent-core": "0.58.0",
       "@mariozechner/pi-agent-core>@mariozechner/pi-ai": "0.60.0",
-      "hono": "4.12.8",
+      "hono": "4.13.5",
       "@hono/node-server": "1.19.10",
       "fast-xml-parser": "5.5.6",
       "request": "npm:@cypress/request@3.0.10",
